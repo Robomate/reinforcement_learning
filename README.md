@@ -7,3 +7,6 @@ https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow
 
 ### autonomous driving
 https://navoshta.com/kitti-lidar/
+
+### movidius
+https://ncsforum.movidius.com/discussion/418/incorrect-output-with-simple-custom-tensorflow-network-tf-add-bug
